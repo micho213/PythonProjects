@@ -4,7 +4,7 @@ def check_prime(number):
 
 x = 1
 answer = 0
-while x < 2000000:
+while x < 2000001:
     x+=1
     if check_prime(x):
         answer+=x
