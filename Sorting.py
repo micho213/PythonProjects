@@ -35,6 +35,7 @@ def SelectionSort(data,field):
 """data[iteration] = ((data[x])[0], (data[x])[1])
             data[x] = largest
             x -= 1"""
+x = 3
 
 
 listOfNames = [ ("Ann",23),("Tim",19),("Bob",37),("Ned",51),("Sue",18)]
