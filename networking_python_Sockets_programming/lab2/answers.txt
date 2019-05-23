@@ -1,0 +1,14 @@
+1. Remote Server
+
+	A. It translates the domain name into their computers ip address and connects to it. I do not need my instance of the server running as i connect to their instance.
+
+	B. No, it hasnt changed as My instance of the server was not running. 
+
+	C. Yes, As I sent a message to their computer, their server instance logged the message.
+
+
+2. Simple chat Program.
+
+	D. With my current version of the server, it is not possible to for a third person to join. The server waits to accept a connection, nce it accepts it, it moves on to wait for data. ( so any other connection requests are not being listened to). Therefore it cannot accept another connection.
+
+	E. We need the client to wait to receive data  (message back from the server ) back from the server. Otherwise if the client stops running it cannot receive the reply.

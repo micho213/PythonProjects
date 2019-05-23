@@ -1,0 +1,9 @@
+117308883 Michal Wolas
+
+Design challenges - doing command line arguments was a new thing for me.
+
+I had to change the loop made for receiving data,
+ as the amount to received was unknown.
+
+The request message had to be made just like the GET method
+in order for the WebServer to understand the request.

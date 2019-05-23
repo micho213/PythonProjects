@@ -1,0 +1,16 @@
+
+# Michal Wolas 117308883
+
+TCP - establishes a connection with the
+socket that is waiting to accept an incoming request.
+it sends its messages in a byte stream, rather than a self enclosed single message.
+TCP ensures that messages are delivered correctly.
+
+UDP - The server (the socket) waits to receive a message.
+there is no connection established, no handshaking like in TCP.
+the client simply sends the message to a target address, and the server's response is the same,
+just a message at a target address rather than a connection like TCP
+the messages being sent are sent in a self enclosed package rather than a stream of bytes.
+UDP isn't reliable and doesnt guarantee that the message will be delivered.
+However on localhost or local network packet loss would be very rare.
+

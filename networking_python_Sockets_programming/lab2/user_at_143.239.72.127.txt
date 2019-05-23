@@ -1,0 +1,50 @@
+Connection made: 2019-03-05 14:07:13 from 143.239.72.127 
+'WadddupEND' at 14:07:20
+'wassupEND' at 14:07:31
+'waddupEND' at 14:07:38
+Connection made: 2019-03-05 14:09:36 from 143.239.72.127 
+'hyelloEND' at 14:09:40
+'waddupEND' at 14:09:50
+'interestingEND' at 14:10:06
+Connection made: 2019-03-05 14:12:46 from 143.239.72.127 
+'hiii' at 14:12:51
+'is g' at 14:13:09
+Connection made: 2019-03-05 14:14:53 from 143.239.72.127 
+'hi' at 14:14:55
+'what up' at 14:15:03
+'whats up' at 14:15:20
+Connection made: 2019-03-05 14:16:04 from 143.239.72.127 
+Connection made: 2019-03-05 14:18:15 from 143.239.72.127 
+'hi' at 14:18:17
+response: 'hi' at 14:18:20
+Connection made: 2019-03-05 14:31:32 from 143.239.72.127 
+'waddup' at 14:31:36
+response: 'yhellooo' at 14:31:44
+'kajsdhkshagd' at 14:31:50
+response: 'akjsdakjshd' at 14:31:53
+Connection ended at 2019-03-05 14:31:57
+
+Connection made: 2019-03-05 14:38:21 from 143.239.72.127 
+'hyellooo' at 14:38:54
+response: 'wadduuuuuppp' at 14:38:59
+Connection ended at 2019-03-05 14:39:03
+
+Connection made: 2019-03-05 14:40:22 from 143.239.72.127 
+Connection made: 2019-03-05 14:42:24 from 143.239.72.127 
+Connection made: 2019-03-05 14:45:33 from 143.239.72.127 
+'heyy' at 14:45:35
+response: 'it works' at 14:45:39
+'asdna' at 14:45:45
+response: 'STOP' at 14:46:39
+Connection made: 2019-03-05 14:48:54 from 143.239.72.127 
+'hi' at 14:48:56
+response: 'hello' at 14:49:00
+'sup' at 14:49:06
+Connection made: 2019-03-05 14:51:18 from 143.239.72.127 
+Connection made: 2019-03-05 14:51:55 from 143.239.72.127 
+Connection made: 2019-03-05 14:53:03 from 143.239.72.127 
+'jasdas' at 14:53:07
+response: 'dasdasd' at 14:53:10
+'qwdqwd' at 14:53:18
+Connection made: 2019-03-05 14:56:21 from 143.239.72.127 
+'asdasd' at 14:56:23

@@ -1,0 +1,7 @@
+Connection made: 2019-03-06 13:43:27 from 143.239.72.68 
+'heyyyy' at 13:43:30
+response: 'wadduuuoppp' at 13:43:34
+'wazuuuaaaaapapp' at 13:43:39
+response: 'wljasdlhaqkdlwhqwljdheqkjwldh' at 13:43:43
+Connection ended at 2019-03-06 13:43:48
+
